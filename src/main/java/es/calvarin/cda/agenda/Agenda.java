@@ -1,16 +1,14 @@
 package es.calvarin.cda.agenda;
 
+import es.calvarin.cda.agenda.dao.AgendaDAO;
+
 public class Agenda
 {
     private AgendaDAO agendaDAO;
 
-//    public static void setAgendaDAO(AgendaDAO agendaDAO)
-//    {
-//        this.agendaDAO = agendaDAO;
-//    }
-//    
-//    public static void agregarTelefono(String telefono) {
-//        new Persona(telefona)
-//        agendaDAOImpl.agregarTelefono(persona);
-//    }
+    public void setAgendaDAO(AgendaDAO agendaDAO)
+    {
+        this.agendaDAO = agendaDAO;
+    }
+    
 }

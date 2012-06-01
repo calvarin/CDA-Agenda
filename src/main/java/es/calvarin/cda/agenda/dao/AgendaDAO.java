@@ -1,4 +1,6 @@
-package es.calvarin.cda.agenda;
+package es.calvarin.cda.agenda.dao;
+
+import es.calvarin.cda.agenda.Persona;
 
 public interface AgendaDAO
 {

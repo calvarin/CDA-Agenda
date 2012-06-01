@@ -2,9 +2,8 @@ package es.calvarin.cda.agenda;
 
 import org.junit.Test;
 
-import es.calvarin.cda.agenda.AgendaDAO;
-import es.calvarin.cda.agenda.AgendaDAOImpl;
-import es.calvarin.cda.agenda.Persona;
+import es.calvarin.cda.agenda.dao.AgendaDAO;
+import es.calvarin.cda.agenda.dao.AgendaDAOImpl;
 
 public class PersonaTest
 {
