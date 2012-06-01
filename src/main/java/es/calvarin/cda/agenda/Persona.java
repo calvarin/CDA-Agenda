@@ -1,4 +1,4 @@
-package es.cda.agenda;
+package es.calvarin.cda.agenda;
 
 import java.util.ArrayList;
 import java.util.List;
